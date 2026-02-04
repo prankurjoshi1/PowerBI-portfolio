@@ -31,7 +31,7 @@ This dashboard analyzes vehicle sales performance using structured transactional
 
 The dashboard is designed for sales and management stakeholders to quickly assess performance and identify key drivers.
 
-📁 Screenshot: `screenshots/PowerBI-vehicle-sales.jpg`
+📁 Screenshot: `PowerBI-portfolio/PowerBI-vehicle-sales.jpg`
 
 ---
 
@@ -47,7 +47,7 @@ This dashboard explores employee attrition patterns using HR data, focusing on i
 
 The dashboard emphasizes analytical structure and decision support for HR and management teams.
 
-📁 Screenshot: `screenshots/PowerBI-hr-attrition.jpg`
+📁 Screenshot: `PowerBI-portfolio/PowerBI-hr-analytics.jpg`
 
 ---
 
